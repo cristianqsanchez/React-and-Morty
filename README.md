@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React and Morty
 This was a site to learn how to consume API's using the Rick and Morty API and Reactjs
 
@@ -15,5 +14,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`   | Build your production site to `./dist/`      |
 | `npm run preview` | Preview your build locally, before deploying |
 =======
-## React-and-Morty
->>>>>>> a05f7f91fbaa89d9a5612f08e77bf8b9af6df140
